@@ -42,9 +42,10 @@ A large-scale student project where I managed a team of four programmers.
 - Delegated tasks and coordinated team contributions  
 
 [Gameplay Trailer](https://youtu.be/DMdii-rpamE?si=auxwUUbDHUfNYEQ_)
-![Screenshot 1](assets/screenshot_1.jpg)
-![Screenshot 2](assets/screenshot_2.jpg)
-![Screenshot 3](assets/screenshot_3.jpg)
+<img src="(assets/screenshot_1.jpg" alt="Forge Fiasco Screenshot 1" width="400">
+<img src="(assets/screenshot_2.jpg" alt="Forge Fiasco Screenshot 2" width="400">
+<img src="(assets/screenshot_3.jpg" alt="Forge Fiasco Screenshot 3" width="400">
+
 
 ---
 
