@@ -33,11 +33,11 @@ A game centered around defending your home from "repo-robots," crafting, and sho
 ### Forge Fiasco — Student Project (2024–2025)
 *Tech stack: C++, JSON, OpenGL, GLSL, FMOD, SDL, Dear ImGui, Visual Studio*  
 A large-scale student project where I managed a team of four programmers.  
-
-<img src="assets/screenshot_1.jpg" alt="Forge Fiasco Screenshot 1" width="200">
-<img src="assets/screenshot_2.jpg" alt="Forge Fiasco Screenshot 2" width="200">
-<img src="assets/screenshot_3.jpg" alt="Forge Fiasco Screenshot 3" width="200">
-
+<div>
+  <img src="assets/screenshot_1.jpg" alt="Forge Fiasco Screenshot 1" width="200">
+  <img src="assets/screenshot_2.jpg" alt="Forge Fiasco Screenshot 2" width="200">
+  <img src="assets/screenshot_3.jpg" alt="Forge Fiasco Screenshot 3" width="200">
+</div>
 - Designed and implemented a Particle System
 - Helped Develop Rendering pipeline and shaders  
 - Built an Entity Component System (ECS) with data-driven components
