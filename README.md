@@ -14,13 +14,6 @@
 
 ---
 
-## GitHub Stats
-
-![GitHub stats](https://github-readme-stats-gules-eight-67.vercel.app/api?username=FrendorFaux&show_icons=true&theme=tokyonight)
-
-
----
-
 ## Contact
 
 - Email: [nkilian.wa@gmail.com](mailto:nkilian.wa@gmail.com)  
