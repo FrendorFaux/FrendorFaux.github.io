@@ -41,6 +41,8 @@ A large-scale student project where I managed a team of four programmers.
 - Implemented Trace Logging System and Serialization/Deserialization 
 - Delegated tasks and coordinated team contributions  
 
+![Gameplay Trailer](https://youtu.be/DMdii-rpamE?si=auxwUUbDHUfNYEQ_)
+
 ---
 
 
