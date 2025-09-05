@@ -4,7 +4,7 @@
 ## Skills
 
 - **Languages:** C, C++, Python, Java, GLSL
-- **Graphics & Systems:** OpenGL, SDL, OBJ model loading, Raspberry Pi development  
+- **Libraries:** OpenGL, SDL, RapidJSON, Dear ImGui,
 - **Tools:** Git, Linux, WSL, VS Code, Visual Studio  
 
 ---
@@ -16,9 +16,8 @@
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=FrendorFaux&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats-gules-eight-67.vercel.app/api?username=FrendorFaux&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrendorFaux&layout=compact&theme=tokyonight)
 
 ---
 
